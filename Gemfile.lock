@@ -233,7 +233,6 @@ DEPENDENCIES
   binding_of_caller
   coffee-rails (~> 4.1.0)
   factory_girl_rails
-  guard
   guard-rspec
   guard-spring
   jbuilder (~> 2.0)

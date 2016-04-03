@@ -25,7 +25,6 @@ group :development do
   gem 'pry-doc'
   gem 'pry-byebug'
 
-  gem 'guard'
   gem 'guard-rspec'
   gem 'guard-spring'
 
